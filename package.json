@@ -1,0 +1,13 @@
+{
+  "name": "api-relay",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Allowlisted API relay for specific domains, built for Faable Deploy",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "start": "node src/server.js"
+  }
+}

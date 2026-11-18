@@ -1,0 +1,4 @@
+{
+  "buildpack": "node",
+  "startCommand": "node src/server.js"
+}
